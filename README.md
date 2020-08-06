@@ -1,2 +1,5 @@
-# 3bi-hack
-3 buttons interface hack
+# 3 buttons interface
+
+file, social, and payment
+
+3bi, A casestudy
