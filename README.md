@@ -1,5 +1,5 @@
 # 3 buttons interface
 
-file, social, and payment
+File, social, and payment
 
 3bi, A casestudy
