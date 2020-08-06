@@ -1,5 +1,5 @@
-# 3 buttons interface
+#3 buttons interface, file, social, and payment.
 
-File, social, and payment
+A casestudy and hack, 3bi work for a more accessible, privacy, and progressive web
 
-3bi, a casestudy
+In this context, Hack meaning a good solution or piece of advice
