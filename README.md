@@ -2,4 +2,4 @@
 
 File, social, and payment
 
-3bi, A casestudy
+3bi, a casestudy
