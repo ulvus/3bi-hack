@@ -1,4 +1,4 @@
-# 3 buttons interface, file, social, and payment
+# 3 buttons interface. File, social, and payment
 
 A casestudy and hack, 3bi work for a more accessible, privacy, and progressive web
 
