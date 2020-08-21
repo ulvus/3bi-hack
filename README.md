@@ -1,6 +1,7 @@
-# 3 buttons interface. File, contact, and payment
+# 3 buttons interface
 
-Hack accessible, privacy, and progressive web
+3 buttons interface hack. File, contact, and payment. Hacking accessible, privacy, and progressive web 
 
-In this context, hack meaning a good solution or piece of advice
+Hack meaning a good solution or piece of advice
 
+Hacking meaning desing and coding
