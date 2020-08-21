@@ -5,3 +5,5 @@
 Hack meaning a good solution or piece of advice
 
 Hacking meaning design and coding
+
+https://youtu.be/2hEfRtQ2jC4
