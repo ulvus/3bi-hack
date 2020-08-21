@@ -4,4 +4,4 @@
 
 Hack meaning a good solution or piece of advice
 
-Hacking meaning desing and coding
+Hacking meaning design and coding
